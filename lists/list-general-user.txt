@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# CpuJoninPalace/zapret-discord 8c2151d2fa43
